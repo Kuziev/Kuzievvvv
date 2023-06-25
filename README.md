@@ -1,2 +1,2 @@
 # Kuzievvvv
-https://cdn-icons-png.flaticon.com/512/919/919827.png
+img src="https://img.shields.io/badge/-style=for-the-badge&logo
